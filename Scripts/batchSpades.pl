@@ -2,7 +2,7 @@
 use strict;
 use Cwd;
 use Data::Dumper;
-#Lauren Eserman
+#Lauren Eserman, modified from K. Heyduk's Trinity script
 
 my $dir = $ARGV[0]; #FULL PATH to spades folder, include final "/"
 my $reads = $ARGV[1]; #FULL PATH to clean reads directory, include final "/"
