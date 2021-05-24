@@ -1,0 +1,360 @@
+>Lib171
+AT-----CTC CT-TTTGATT TGA------- ---------- ----T----- ----------
+---------- ---------- TCTGCCGT-G ---------- ---------- ----------
+-----ATTTC GGTTTG-GGG GTGGATGTA- ---GTTTTTT ---------- ----------
+---------- TCTGA----- TCCGAGT--- -------GAT ATGCAAACAT CAA-TAAAGG
+AATTTATAT- -------TTT --TTCTAAAT TTGT---TCT TGAGCATAGG TTTACATCAG
+TTGTTAAGAT CAAGAGCATA TCTATTGTTG GAGGTGCTGA AGGAACAAG- ----------
+-------TCC TTCAAAAATG AGAGTGTATG TTTATTACTA ACTCATT--- ----------
+----AT---- ---------- -GAATACTTT ATT-T--TTT TAATATATTT TTATGAAT-A
+TTGTTGATAT TTTCCATAGA AACAGATGTT AGATGCCATG AATTCTATAT GAGGAGTC-A
+GCTCTA---- AG-------- ---------- ------CTTT T-T---TTGA GGAGATAAT-
+---------- TCTATG---- -ATATTGCTT TGG-AA---- -CATCATGTT TAT-------
+---------G TAAATGCCAC TATTAA---- --GATTTAAC ATATTTTAGA GAAAA-ATT-
+---------- ---------- TCTCCTTGCA TATAGAACT- ----ATTTGC CTCC------
+---------- ---A------ ---------- ---------- --------
+>Lib159
+AA-----TAC CT-TTTGCTC AGA------- ---------- ----TATTCC AGATTTCAAA
+GCGTGTGCAG CCTTATTGCA TTTTCCGG-G GAACTTTGGT GGGAATACAA CTC-GGA--T
+ACACTATATC GGTTTGCGTG GTGAAGCTAC TCGGGTATTT AAGTTATACA TGCTTCATGA
+ATGATTGGCA TCTAATTTTG TTTGGTT--- -------GAT ATGGATACAA CAA-T-----
+---CTGTGT- -------TTC --GTCTAAA- --GCATCTCT TGGAAATAGG TTTACATCAG
+ATGTTAAGAT CAAGAGCATA TCCGTTGTTG GAGGCGTTGA AGGGACAAG- ----------
+-------CCC TTCAAAAATG AGAGCGTATG TCTATTGTCA ACTCTTTCCA TGAAGTATGA
+AACCAT---- ---------- -GGATACTTT ATCGT--TTT TAATAGATTC TTATGCAT-A
+TTGTTGATAT TTTCCATATT -GCACATATC ATATGCTATG AATTCCATAT GAGTAGCC-A
+TCTATATAAT AA-------- ---------- ------TTTT C-T---GTGA AGAGATAAT-
+---------- TCACTGTGCA CATGTCAC-- --G-AA---- -AATCATGTT TAT-------
+---------G TAAAAGCCCC TGTAAA---- --GATTTAAC ATAATCTGGA TAAAA-TTT-
+---------- ---------- TCTCTTTGCA AATATAGCT- ----ATTAGC CATCTATAAT
+ATTGTGTGAA GAGAACCCGA AGTCTCTAGT CTACAAACAC ATAAACCT
+>Lib184
+AA-----CAC AT-TT-GCTT AGA------- ---------- ----TATCCG AAATTTCAAA
+GCGTGAGCAG CCTTATTGCA TTTTCCTC-A GAACTTTGGC GCCAATGTGA CTA-GGA--T
+ATACTATATT GGCTTGCGTG GTGAAGCTAC TCAGGTATTT AAGCTATGCA CCCTTCGTTA
+AGGATTGGCA TCTAATTT-- ----ATT--- -------GAT ---------- --------GG
+AATTTA---A GATT-TTTTT --TTTTCAA- --GCATCTCT TGAAAATAGG TTTACATCAC
+TTGTTAAGAT CAAGAGCATA TCTGTTGTTG GAGGTGCTGA AGGAACAAG- ----------
+-------TCC TTCAAAAATG AGAGCGTATG TCTATTACCG ACTCATTCCA TGAAGTATGA
+AGCAAT---- ---------- -GAATATTTT ATTGT--TTT TAATAGATTC TTATGAAT-A
+TTGTTGATAT TTTCCATAGA ACCACGTATC AGATGCTATG -ATTCCATAT GACTAGCA-A
+GCTCTA---- AT-------- ---------- ------ATGT TGT---GCCT AGAGATAAT-
+---------- TCTCTGTGGA TGTGTTAC-- --CTAA---- -CATTATCTT TAT-------
+---------G CAAATGCCCC TGTAAA---- --GATTTAAC ATATTGTAGT GAAGA-CTT-
+---------- ---------- CCTCCTTGCA AATATAACT- ----AT-TGC CTTC------
+---------- ---AACCCGA AGTCTCTGGT TTACAAACAC GTAAATCT
+>Lib175
+AA-----CGC CT-TT-GCTT AGA------- ---------- ----TATCCG AGATTTCAAA
+GTGTGGGCAG CCTTGTTGCA TTTTCCTG-A GAACTTTGGT GCGAATGTAA CTC-AGA--T
+ATACTATATT GGCTTGCGTG GTGAAGCTAC TCAGGTTTTT AAGCTATACA TACTTCTTTA
+ATGATTGGCA TCTAATTT-- ----GTT--- -------AAT ATGCATATAT CAA-TAAAGG
+AGTTTATATA GTGT-TTTTT --TT-TGAA- --GTACCTCT TGGAAATAGG TTTACATCAG
+TTGTTAAGAT CAAGAGCATA TCTGTCGTTG GAGGTGCTGA AGGAACAAG- ----------
+-------TCC TTCAAAAATG AGAGTGTATG TCTAATACCA ACTTATTCCA AGAAGTATGA
+AGCAGT---- ---------- -GAATACTTT ATTGT--TT- TAATAGATTG TTATGAAT-A
+TTGTTGACTT TTTCCATAGA AGCACAGACC AGATGCTATG AATTCCATAT GACTAGCC-A
+GCTCTA---- AT-------- ---------- ------CTTT TGT---GTGA AGAGATAAT-
+---------- TCTCTATGGA CGTGTTAA-- --GAAA---- -CATCATGTT TAT-------
+---------G CAAATGCCCC TGTAAA---- --GATTTAAC ATATTCTAGA GAAAA-TTG-
+---------- ---------- TCTCCTTGCA AATAGAACT- ----ATTTGC CTCC------
+---------- ---AACCCGA AGAGTCTGGT TTACAAACAC ATAAACCT
+>Lib181
+AA-----CGG CT-TT-GCCC AGA------- ---------- ----TATTCG AGATTTCAAA
+GTGTGGGCAG CCTTATTGCA TTTTCCTG-A GAACTTTGGT GCGGATGCAA CTC-AAA--T
+ACACTATATT GGTTTGCGTG GTGAAGCTAC TCAGGTATTT AAGTTATGCA TGCGTCATGA
+ATGATTGGCA TCTAATTA-- ----TAC--- -------TAT AGGCATACAT CAA-TAAATG
+AGTTTAGACA GTTT-TTTTT --TTCTAAA- --GTACCTCT TGGAAATAGG TTTACATCAG
+ATGTTAAGAT CAAGAGCATA TCTATCGTTG GAGGTGCTGA AGGAACAAG- ----------
+-------TCC TTCAAAAATG AGAGCGTATG TCTATTACCA ACTCATTCCA TGAAGTATGA
+AAAAAT---- ---------- -GGATACTTT ATTGT--TTT TAATAGATTC TTATGTATAA
+TTGTTGATAT TTTCCATAAT AGCACATATC AGATACTATC AATTCCATAT GACTAGTC-A
+GCTCTA---- AT-------- ---------- ------CTTT TGT---GTGA AGAGAGAAT-
+---------- TCTCTCTGCA CATGTTAT-- --GAAA---- -CATCATGTT TAT-------
+---------G TAGATGACCC GGTAAA---- --GATTAAAC ATATTCTAGA GAACT-TTT-
+---------- ---------- TCTCTTTACA AATATAACT- ----ATTTGC ----------
+---------- ----ACCCGA AGATTCTGGT TTACAAACAC ATAGACCT
+>Lib182
+AA-----TAT CT-TT-GCTT AGA------- ---------- ----TACGCG AGATTTCAAA
+GCGTGGGCAG CCTTGTTGCA TTTTCCGG-G GAATTTTGGT GCAAGTACAA CTA-AGA--T
+TTACTATATT GGCTTGCGCG GTGAAGCTAC TCAGGTATTT AAGCGGTGCA TACTTCATAA
+ATGATTGGCA TCCAATTT-- ----TTT--- -------GAT ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ----CCTAAA ---------G ---TAAATAT ATGTA---
+>Lib183
+AA------AT CT-------- ---------- ---------- ---------- -GTTTTCAAG
+GCTTGGG--- ---------- ATCGCCGG-- ---------- ---------- ----------
+---------- ---------- ---------- TTAGATAATT AA-------A TGCTTTTTAG
+CTGAAA---- --CAATTT-- ----TT---- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ----AGCAAC ---------G TTTTAAACAT ATTAA---
+>Lib179
+CA-----CAC CT-TT-GCTC AGA------- ---------- ----TATCCG AGGTATCAAA
+GCGTGGGCAG CCTTATTGCA TTTTCCTG-A GAACTTTGGT GCTAATTCAA CTC-AAA--T
+ATACTATATT GGTTTACGTG GTGAAGCTAC TCAGGTATTT AAGTTCTACG TACTTCATGA
+ATAATTGGCA TCTAATTA-- ----GTT--- -------TAT AGG------- ----------
+---------- ---------- -------AC- --GAGGATGG TGGGAATGGG TCCA------
+---------- ---------- --------TG CAGGGGTACA AGGGG----- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ----CCAAGT GCCTAG----
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------C AACATCTAGC TAAAT-CTG-
+---------- ---------- ACTCT----- ---------- ---------- ----------
+---------- ----ACCCAA AAACTCTGGT TTACAAACAC ATAAACCT
+>Lib177
+AATTCAACGC CT-TT-GCTT AGA------- ---------- ----TATCCG AGATTTCAAA
+GTGTGAGCAG CCTTATTGCA TTTTCCTG-A GAACTTTGGT GCGAACGTAA CAC-AGA--T
+ATACTATATT GGCTTGCGTG GTGAAGCTAC TC-------- ---------- ----------
+---------- ---------- ---------- ---------- ATGCATACAT CAA-TAAAGT
+TGTTTATATA GTGT-TTTTT --TTCTGAA- --GTACCTCT TGGAAATAGG TTTACATCAG
+TTGTTAAGAT CAAGAGCATA TCTGTCGTTG GAGGTGCTGA AGGAAAAAG- ----------
+-------TCC TTCAAAAATG AGAGCGTATG TCTATTACCA ACTTATCCCA AGAAGAATGA
+AGCAAT---- ---------- -GAATACTTC TTTGT--TCT TAATAGATTG TTGTGAAT-A
+TTGTTGACTT TTTCCATCTA AGTACATACC AGATGCTATG AATTCCATAT GACTAGCC-A
+GCTCTA---- AT-------- ---------- ------CTTT TGT---TTGA AGAGATAAT-
+---------- TCTCTGTGGA CGTGTTAA-- --GAAA---- -CATCATGTT TAC-------
+---------G CAAATGCCCC TGTAAA---- --GCTTTAAC ATATTCTAGA GAAAT-TTG-
+---------- ---------- TCTTCTTGCA AATAGAACT- ----ATTTGC CTCC------
+---------- ---A------ ---------- ---------- --------
+>Lib180
+AA-----CGC CT-TT-GCTT AGA------- ---------- ----TATCCG AGATATCAAA
+GTGTGGGCAG CCTTATTGCA TTTTCCTG-A AAACTTCGGT GCAAATACTA CTC-AGA--T
+ATTCTATATC GGCTTGCGTG GTGAAGCTAC TCAGGTATTA AAGTTATACA TACTTCATTA
+ATGATTGGCA CCTAGTTT-- TGAGGTTTAA ACCTTAATAT ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ---------A
+GCTCTA---- GA-------- ---------- ------ATTT TGT---GTCA AGAGATGAT-
+---------- TCTCCATGTA CGTGTTAT-- --GAAA---- -CATCATGTT TAT-------
+---------G CGAA------ ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- --------
+>Lib172
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------T TTACAAACAC ATAAACCT
+>Lib158
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- --------
+>Lib165
+AA-----CGC AT-TT-GTTC AGA------- ---------- ----TATTCA AGATTTCAAA
+GTGTGTGCAG CCTTATTGCA TTTTCCTG-A GAATTTTGGT GCGAATGCAA CTC-GGA--T
+ACACTATATT GGTTTGCGTG GTGAAGCTAC CAAGGTATTT ---------- ----------
+---------- ---------- ---------- ---------- ----ATACAT CA--------
+---------- -------TTG TCTTCTAA-- ----T-ATCT CAAC------ ----CATCAC
+TTATGCAGTT GAAGAG---- ---------- -AGATGCTGA GAGCACAAGT AAGATATGCT
+GCAAATTTTC TTCAAA---- ---------- ---------- ----TTTCCA T---------
+---TATCCCG GATGTTATAT AGAAAACTTT GTT-T--TTT ------AGTT -TATGGGC--
+---------- ---------- ------TGTT TGGTAGCAAG TATTT----T GATAATGC-A
+GTTCAA---- ACTAAAAACA GTAATTTTTT ATTC--CTTA TGG---TTGA TTGATTGATT
+GTAAAATATA TC-------- -----CAA-- --GAAAAAAA ATTTGGTGTT TGTTTGGCAG
+CAAAATGAAG TTAATTTTTC TATTTAATTA GCAATTTAAT ATAGCCTAGA GCGAAGC---
+---------- ---------- TCTTTCGG-- -ATTGATTT- ----ATCTAT TTTC------
+---------- ---AACCCGA AGCCTCTAGT TTACAAGCAC ATAAACCT
+>Lib170
+CA-----TGC TC-GT-GGTT TGAGTTAGTA GTCTATAAAA ATATTATAT- ----------
+-------CGT CCTTGTTA-A TTATCCTT-A TCATATTACA ACAAGTGTAA TT--------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ATGCACGCAT CAA-AAAAGG
+AATTTGTATA TTTTTTTTTT TT--CTAAA- --TTA-TTTT TGATCGTAGG TTTACATCAG
+TTGTTAAGAT CAAGAGTATA TCTGTCATTG GAGGTGCTGA AGGAACAAG- ----------
+-------TCC TTCAAAAATG AGAGCGTATG TTTATTGCCA ACTCATTCCA T---------
+---AAT---- ---------- -GAATACTTT ATT-T--TTT TAATATATTC CTATGAAT-A
+TTGCTGATAT TTTCCGTAGA AGCACATGTT AGATGGCATG AGT-CCATTT GACTAGTC-A
+GTTCTA---- AT-------- ---------- ------CTT- TTT---CCGA GGAGATTATT
+CTACAATATT TCTCTGCGG- ---------- --------AA ACATCATGTT TAT-------
+---------A TAAATGCCAC TATTAA---- --GGTTTAAC ATATTTTAGA GGAATTT---
+---------- ---------- TCTTCTTGCT TATTGAACT- ----ATTTGT CTCC------
+---------- ---AACGCGA AGACTCTGGT TTACAAGCAC ATAAACCT
+>Lib157
+CG-----TGC TT-GT-CGTT TGAGTTAGTA GTCTATAAAA TTATTTTGC- ----------
+-------CAT CCTTATTA-A TTATCCTT-A TCATATTACC ACAAACGTAT TT--------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- GTGCATGCAT CAA-TAAAGG
+AATTTATATT ATTTATTTTT TT--CTAAA- --TTA-CTCT CGAGCATAGG TTTACATCAG
+TTGTTAAGAT CAAGAGCATA TCTGTTGTTG GAGGTGCTGA AGGAACAAG- ----------
+-------TCC TTCAAAAATG AGAGTGTATG TTTATTACCA ACTCATTTCT T---------
+---AAT---- ---------- -GAATACTTT ATT-TTTTTT TAATATATTT TTTATGAT-A
+TTGTTGATAT TT-CCATAGA AGCACATTTT AGAAGCCATG AATTCCATAT GAGGAG-C-A
+ACTTTA---- AG-------- ---------- ------CTT- GTT---TTGA GGAGGTAGTT
+TTATGATATT TCACTGTGG- ---------- --------AA ACATCCTATT TAT-------
+---------G TAAATGCCAC CATTAA---- --GATTTAAC ATATTTTAGA GAAAGTT---
+---------- ---------- ----CTTGCA TATAGAACT- ----ATTTGG CTCC------
+---------- ---A------ ---------- ---------- --------
+>Lib167
+CT-----TGC TT-GT-GGTT TAAGTTAG-A GTCTCTAAAA TTATTATGC- ----------
+-------CAT CCTTTTTA-G TCATCCTTTG TCATATTACT ACAAGTGTAA TT--------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ATGCATACAT CAA-TAACGG
+AGTATATATA ---TATTTTT TTTTCTAAA- --TTA-CTCT TATGCGTAGG TTTACATCAG
+TTGTTAAGAT CAAGAGCATA TCTGTTGTTG GAGGTGCTGA AGGAACAAG- ----------
+-------TCC TTCAAAAATG AGAGCGTATG TTTACTACCA ATTCATTCCT T---------
+---AAT---- ---------- -TAAAGCATT ATTGT--TTT TAATATATTT -TATGAAT-A
+TTGTTGATAT TTTACAGAAA AACACATATT AGATTCCATG AATTCCATAT GA---GTC-A
+GCTCTA---- AT-------- ---------- ------CTTA TTT---TTGA GCAGATAATT
+CTATAATATT TCTCTGTGGT TGTGTTAG-- --GAAACAAA CCATCATGCC TAT-------
+---------A CAAAATCTCC TATTAA---- --GATTTAAC ATATTTTAGT GAAAAAT---
+---------- ---------- TCTTCTTG-- -ATGGAACT- ----ATCTGC CTCC------
+---------- ---A------ ---------- ---------- --------
+>Lib99
+AA-----AGC CTC------- ---------- ---------- ---------- ----------
+------GGCG CCCTA----- ---------- ---------- --AAATCCAA CTATAAAACT
+GTTCGCCATG GCCGCTCCT- -------CTC ACAAGCTTTT AGAC------ ----------
+--GA------ ---AATTT-- T--GGTT--- -------GAT ATGAAAACA- -AACCACATG
+TGTTTATATA -TAT-ATT-T TTTTCTAAA- --TTA-CTCT TGAACATAGG TTTACATCAG
+TTGTTAAGAT CAAGAGCATA TCTATTGTTG GAGGTGCTGA AGGAACAAG- ----------
+-------TCC TTCAAAAATG AGAGTGTATG TTTATTACTA ACTCATTCCA T---------
+---AAT---- ---------- -GAATATTTT ATTTT--TTT TAATATATTT TTATGAAT-T
+TT-TTTATAT TTTCCATAGA ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- --T---CGGA AGAG------
+---------- ---------- ---------- ------C--- --GTCGTGT- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- --------
+>Lib96
+AA-----AGC CTC------- ---------- ---------- ---------- ----------
+------GGCG CCCTA----- ---------- ---------- --AAATCCAA CTATAAAACT
+GTTCGCCATG GTCGCTCCT- -------CTC ACAGGCATTT AGAC------ ----------
+--GA------ ---AATTT-- T--GGTT--- -------GAT ATGAAAACA- -AACCACATG
+TGTTTATATA -TAT-ATT-T TTTTCTAAA- --TTA-CTCT TGAACATAGG TTTACATCAG
+TTGTTAAGAT CAAGAGCATA TCTATTGTTG GAGGTGCTGA AGGAACAAG- ----------
+-------TCC TTCAAAAATG AGAGTGTATG TTTATTACTA ACTCATTCCA T---------
+---AAT---- ---------- -GAATATTTT ATTTT--TTT TAATATATTT TTATGAAT-T
+TT-TTTATAT TTTCCATAGA AACACATGTT AGATGCCATG ATTTCCGTAT GAGGAGCC-A
+GCTCTA---- AG-------- ---------- ------CTTT T-T---TTGA GGAGATAATT
+CCATGATATT TCTC--TG-- ------TG-- --GAAAC--- --ATCATGTT TAT-------
+---------G TAAATGCCAC TATTAA---- --GATTTAAC ATATTTTAGA GA-AAATTT-
+---------- ---------- TCTCCTTGC- ---------- ------TTGC CTCC------
+---------- ---AACTTGA AGGTTATGGT TTATAATCAC AAAAATCT
+>Lib98
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ---------T
+GTTC------ ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ATGAAAACA- -AACCACATG
+TGTTTATATA -TAT-ATT-T TTTTCTAAA- --TTA-CTCT TGAACATAGG TTTACATCAG
+TTGTTAAGAT CAAGAGCATA TCTATTGTTG GAGGTGCTGA AGGAACAAG- ----------
+-------TCC TTCAAAAATG AGAGTGTATG TTTATTACTA ACTCATTCCA T---------
+---AAT---- ---------- -GAATATTTT ATTTT--TTT TAATATATTT TTATGAAT-T
+TT-TTTATAT TTTCCATAGA AACACATGTT AGATGCCATG ATTTCCGTAT GAGGAGCC-A
+GCTCTA---- AG-------- ---------- ------CTTT T-T---TTGA GGAGATAATT
+CCATGATATT TCTC--TG-- ------TG-- --GAAAC--- --ATCATGTT TAT-------
+---------G TAAATGCCAC TATTAA---- --GATTTAAC ATATTTTAGA GA-AAATTT-
+---------- ---------- TCTCCTTGC- ---------- ------TTGC CTCC------
+---------- ---AACTTGA AGGTTATGGT TTATAATCAC AAAAATCT
+>Lib77
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ATGAAAACA- -AACCACATG
+TGTTTATATA -TAT-ATT-T TTTTCTAAA- --TTA-CTCT TGAACATAGG TTTACATCAG
+TTGTTAAGAT CAAGAGCATA TCTATTGTTG GAGGTGCTGA AGGAACAAG- ----------
+-------TCC TTCAAAAATG AGAGTGTATG TTTATTACTA ACTCATTCCA T---------
+---AAT---- ---------- -GAATATTTT ATTTT--TTT TAATATATTT TTATGAAT-T
+TT-TTTATAT TTTCCATAGA AACACATGTT AGATGCCATG ATTTCCGTCT GAGGAGCC-A
+GCTCTA---- AG-------- ---------- ------CTTT T-T---TTGA GGAGATAATT
+CCATGATATT TCTC--TG-- ------TG-- --GAAAC--- --ATCATGTT TAT-------
+---------G TAAATGCCAC TATTAA---- --GATTTAAC ATATTTTAGA GA-AAATTT-
+---------- ---------- TCTCCTTGC- ---------- ------TTGC CTCC------
+---------- ---AACTTGA AGGTTATGGT TTATAATCAC AAAAATCT
+>Lib186
+AA-----AGC CTC------- ---------- ---------- ---------- ----------
+------GGTG CCTTA----- ---------- ---------- --AAATCCAA CTAAAGA--T
+GTTCGCCATG GCCGCTCCT- -------TCC TCAAGCATAT AGACGAAACT ----------
+ACGA------ ---AATTT-- T--GGTT--- -------GAT ATGCAAACAT CAA-TAAAGG
+AGCTTATATA -TAT-TTT-T TTTTCTAAA- --TTA-CTTT TGTGTATAGG TTTACATCAG
+TTGTTAAGAT CAAGAGCATA TCTATTGTTG GAGGTGCTGA AGGAACAAG- ----------
+-------TCC TTCAAAAATG AGAGTGTATG TTTATTACTA ACTCATTCCA T---------
+---AAT---- ---------- -GAATACTTC AT--T--TTT TAATATATTT TTATGAAT-A
+TTGTTGATAT TTTCCATAGA AACACATGTT AGATGCCATG AATTTCTTAC GAGGAGTCTG
+GCTCTA---- AT-------- ---------- ------TTAT T-T---TTGA GGAGATTATT
+CTACAATATT TCCCTTTGGT TGTGTTTG-- --GAAACAAA CCAATTTGTT TAT-------
+---------A CAAATTCCCC TGTAAA---- --GATTTGAC GTATTTTTTA GAAAAATTT-
+---------- ---------- TCTCTTTGCA TATAGAACTG TTCTATTTGC CTCG------
+---------- ---AACTTGG AGGTAATGGT TTAGAATCAC AAAAATCT
+>Lib169
+AA-----TGC CTTTT-GCTC AGA------- ---------- ----TATTCG AGATTTCAAA
+GTGTGAGCAG CCTTATTGCA TTTTCCTC-A GAACTTTGGT GCGAATTCAA CTCA-GA--T
+TTACTATATT GGCTTGCGTG GTGAAGCTAC TCAGGTATTT AAACTATACT CACTTCATTA
+ATGA------ ---AATAT-- T--TGTT--- -------GAT ATGCGTACA- -AA-TAAAGG
+AGTTAATATA ATAT-TTC-T TTTTCTAAA- --TTATCTCT TGGGCATAGG TTTACATCAG
+TTGTTAAGAT CAAGAGCATA TCTGTCGTTG GAGGTGCTGA AGGAACAAG- ----------
+-------TCC TTCAAAAATG AGAGTGTATG TCTATTACCA ACTCATTCCA T---------
+---AAT---- ---------- -GAATACTTT ATTGT--TTT TAATAGATTC TTATGAAT-A
+TTGTTGATAT TTTCCATAGA AGCACATGCC AAATGCTATG AATTCCATAT GACCAATC-A
+GCTCTA---- AT-------- ---------- ----AGTTTT T-T---TTTT TGAGATAATT
+CTTTGATATT TCTC--TGGT TGTGTTAG-- --GAAACAAA CCATCATGTT TA--------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- --------
+>Lib106
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- ----------
+---------- ---------- ---------- ---------- ---------- -----ACATG
+TGTTTATATA ATAT-TTTTT TTTTCTAAA- --TTA-CTCT TGAGCATAGG TTTACATCAG
+TTGTTAAGAT CAAGAGCATA TCTATTGTTG GAGGTGCTGA AGGAACAAG- ----------
+-------TCC TTCAAAAATG AGAGTGTATG TTTATTACTA ACTCATTCCA T---------
+---AAT---- ---------- -GAATACTTT ATTGT--TTT TAATATATTT TTATGAAT-T
+TTTTTTATAT TTTCTATAGA AACACATGTT AGATGCCATG AATTCCATAT GAG---TC-A
+GCTCTA---- AG-------- ---------- ------CTTT T-TTTTTTAA GGAGATAATT
+CTATGATATT TCTC--TG-- ------TG-- --GAAAC--- --ATCATGTT TAT-------
+---------G TAAATGCCAC TATTAA---- --GATTTAAC ATATTTTAAA GAAAAAATG-
+---------- ---------- TCTCCTTGCA TATAGAATT- ----ATTTGC CTCC------
+---------- ---AACTTGA AGGTTATGGT TTATAATCAC AAAAATCT
+>Lib166
+AA-----CGC CT-TT-GCTT AGA------- ---------- ----TATCCA AGATTTCAAA
+GTGTGGGCAG CCTTATTGCA TTTTCCTG-A GAACTTTGGT GCGAATGCAA CTC-AGA--T
+ATACTATATT GGCTTACGAG GTGAAGCTAC TCAGGTATTT AAATTATACA CACTTCATCA
+ATGATTGGTA TCTAATTT-- ----ATT--- -------GAT ATGCATACGT CAA-TAAAGG
+TGTTTAGACA GTTT-TTC-T ATTTCTAAA- --GTGCCTCT TGGAAATAGG TTTACATCAG
+ATGTTAAGAT CAAGAGCATA TCTGTCGTTG GAGGTGCTGA AGGAACAAG- ----------
+-------CCC TTCAAAAATG AGGGCGTATG TCTATCACCA ACTCATCCCA TGAAGTATGA
+AACAAT---- ---------- -GAATACTTT ATTGT--TTT TAATATATTG TTATGCAT-A
+TTGTTGATAT TTTCCATTAT AGCGCATATC AGATGCTATG AATTCCATTT GATTAGCC-A
+GCTCTA---- AT-------- ---------- ------CTTT TGT---TTGA AGAGATAA--
+-------ATC TCTG--TGTA CATGTTAC-- --GAAAC--- --ATCATGCT TAT-------
+---------G CCAATGCCCC TGTAAA---- --GATTTAAC ACATTTTAGA GAAAAATTGA
+GACAATTGAC TTTGGCCCAA TCTGCTTGAA TGAACAATT- ----ATTTAC CTTC------
+---------- ---AACCCGA AGATTCTGGT TTACAAACAC ATAAATCT
